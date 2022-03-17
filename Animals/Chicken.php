@@ -13,7 +13,7 @@
         }
 
         function Collect() : string{
-            return "Agg";
+            return "Egg";
         }
     }
 ?>
